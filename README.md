@@ -1,9 +1,8 @@
 # Public APIs for Australia 
 
-A collective list of free JSON APIs which can be used during the Improving Lives of Australians Hackathon in Sydney / Melbourne August 11-13th, 2017.
+A list of free JSON APIs that can be used during the Improving Lives of Australians Hackathon in Sydney / Melbourne August 11-13th, 2017. http://improvinglifewithdata.com.au/
 
-Kudos to [Toddmotto!](https://github.com/toddmotto) for initiating this list.
-For information on contributing to this project, please see the [contributing guide](CONTRIBUTING.md).
+Kudos to [Toddmotto](https://github.com/toddmotto) for initiating this list.
 
 
 ### Open Data
@@ -28,7 +27,7 @@ API | Description | Auth | HTTPS | Link |
 | Flutrack | Influenza-like symptoms with geotracking | No | No | [Go!](http://www.flutrack.org/) |
 | MetaWeather | Weather | No | Yes | [Go!](https://www.metaweather.com/api/) |
 | USGS Earthquake Hazards Program | Earthquakes data real-time | No | Yes | [Go!](https://earthquake.usgs.gov/fdsnws/event/1/) |
-| USGS Water Services | Water quality and level info for rivers and lakes | No | Yes | [Go!](https://waterservices.usgs.gov/) |
+| USGS Water Services | Water quality and level info for rivers and lakes | No | Yes | [Go!](https://waterservices.usgs.gov/) 
 
 ### Fraud Prevention
 API | Description | Auth | HTTPS | Link |
