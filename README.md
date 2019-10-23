@@ -1,6 +1,6 @@
-# Public APIs for Australia 
+# Public APIs for Hackathons 
 
-A list of free JSON APIs that can be used during the Improving Lives of Australians Hackathon in Sydney / Melbourne August 11-13th, 2017. http://improvinglifewithdata.com.au/
+Please see here a list of public and free APIs and dataset that you can use together with the Open Bank Project Sandbox to enrich your apps. 
 
 Kudos to [Toddmotto](https://github.com/toddmotto) for initiating this list.
 
@@ -8,7 +8,6 @@ Kudos to [Toddmotto](https://github.com/toddmotto) for initiating this list.
 ### Open Data
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| Open Government, Australia | Australian Government Open Data | No | Yes | [Go!](https://www.data.gov.au/) |
 | World Bank | World Data | No | No | [Go!](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) |
 
 ### Finance
